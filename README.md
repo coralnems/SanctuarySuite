@@ -1,1 +1,1 @@
-# SanctuarySuite
+# Sanctuary Suite
